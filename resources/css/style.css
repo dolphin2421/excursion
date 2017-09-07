@@ -1,4 +1,4 @@
-body{
+body {
 	background-color: black;
 	color:white;
 	font-family: Verdana, Sans-serif;
@@ -12,4 +12,14 @@ h1 {
 .foo {
 	color: Aquamarine;
 	font-size: 16px;
+}
+
+p {
+	font-size: 21px;
+	color: Gray;
+}
+
+h2 {
+font-weight: 300;
+font-size: 42px;
 }
